@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "d71e2dc5d870656fedb3be13bfcf8b65"
+build_time: [1514292640, 23477000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/CacheProtocol.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/MemoryCache.swift": [1514292262, 0]

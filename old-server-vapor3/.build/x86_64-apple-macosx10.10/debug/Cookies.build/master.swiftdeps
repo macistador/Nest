@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "a51589f8acf6079f8c740c3a2a1fbb2f"
+build_time: [1514292657, 736913000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+BytesConvertible.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Parse.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Serialize.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+BytesConvertible.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Literal.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Parse.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Serialize.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Request+Cookies.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Response+Cookies.swift": [1514292269, 0]

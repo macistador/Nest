@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "1f1dd463fe2f2364d1168a97a5bef256"
+build_time: [1514292657, 743366000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/BoundaryParser.swift": [1514292266, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/HeaderParser.swift": [1514292266, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Multipart+BytesConvertible.swift": [1514292266, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Parser.swift": [1514292266, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Part.swift": [1514292266, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Serializer.swift": [1514292266, 0]

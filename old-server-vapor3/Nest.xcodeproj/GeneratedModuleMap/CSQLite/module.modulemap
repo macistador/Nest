@@ -1,0 +1,4 @@
+module CSQLite {
+    umbrella "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include"
+    export *
+}

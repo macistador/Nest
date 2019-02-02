@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "ff03e588089441d1fba65b766fa9d1a7"
+build_time: [1514292642, 29092000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Result.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Statement.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/StatusError.swift": [1514292272, 0]

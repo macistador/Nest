@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "24b32d83f0adc0e6c20ede01ecd38855"
+build_time: [1514292637, 640991000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Certificates.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ClientSocket.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Context.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Error.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Exports.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/InternetSocket.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Mode.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ReadableSocket.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ServerSocket.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Socket.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Utilities.swift": [1514292273, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/WriteableSocket.swift": [1514292273, 0]

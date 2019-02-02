@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "7e5052d662e46f99e8251f5d57c61078"
+build_time: [1514292608, 489809000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/debugging.git-4365319567167379684/Sources/Debugging/Debuggable.swift": [1514292268, 0]

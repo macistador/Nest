@@ -1,0 +1,35 @@
+#extend("base")
+
+#export("body") {
+
+<div class="row" id="header">
+    <div class="one column">
+        <h2>Nest Logo</h2>
+    </div>
+    <div class="ten column">
+        <ul>
+            <li>Dashboard</li>
+            <li>Statistiques</li>
+            <li>Base de données</li>
+            <li>Notifications</li>
+            <li>Configuration</li>
+        </ul>
+    </div>
+    <div class="one column">
+        <h2>Compte</h2>
+    </div>
+</div>
+
+#import("body-admin")
+
+<div class="row" id="footer">
+    <div class="u-full-width">
+        <div class="message">
+            <h1>footer</h1>
+        </div>
+    </div>
+</div>
+}
+
+
+

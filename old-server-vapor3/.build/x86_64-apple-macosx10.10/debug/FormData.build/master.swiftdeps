@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "0a463e0eb2a338a0cb17e0fb4477e0fd"
+build_time: [1514292664, 28505000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": [1514292266, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": [1514292266, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": [1514292266, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": [1514292266, 0]

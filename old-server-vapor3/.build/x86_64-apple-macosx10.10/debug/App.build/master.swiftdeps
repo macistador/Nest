@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "b979a95eb4910f56fbb0b4b7a843d774"
+build_time: [1514292686, 333082000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/Sources/App/Controllers/PostController.swift": [1514292082, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/Sources/App/Models/Post.swift": [1514292082, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/Sources/App/Routes/Routes.swift": [1514292082, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/Sources/App/Setup/Config+Setup.swift": [1514292082, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/Sources/App/Setup/Droplet+Setup.swift": [1514292082, 0]

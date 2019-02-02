@@ -1,0 +1,44 @@
+#extend("admin")
+
+#export("head") {
+}
+
+#export("body-admin") {
+    <div class="message">
+        <h3>#(message)</h1>
+        
+        
+        <table class="u-full-width">
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>Nom</th>
+                    <th>Description</th>
+                    <th>Date création</th>
+                    <th>Date modification</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Mojito</td>
+                    <td>Meilleur cocktail</td>
+                    <td>01/01/1970</td>
+                    <td>08/06/1983</td>
+                </tr>
+            <loop >
+                <tr>
+                    <td>
+                    <td>"#cocktail.name"</td>
+                    <td>"#cocktail.description"</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </loop>
+            </tbody>
+        </table>
+        
+        
+        
+    </div>
+}

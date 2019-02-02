@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "0796bf1794cfb53bb8b85f6680cb03ba"
+build_time: [1514292629, 64956000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/BCryptError.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Base64.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Convenience.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Export.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Hash.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Keys.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Parser.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Salt.swift": [1514292272, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Serializer.swift": [1514292272, 0]

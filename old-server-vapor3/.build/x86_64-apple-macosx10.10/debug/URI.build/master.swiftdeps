@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "523b765b0ce5e3c548ca19536a880e0d"
+build_time: [1514292629, 417438000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Byte.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Modification.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Ports.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+String.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI.swift": [1514292269, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Parser/Parser.swift": [1514292269, 0]

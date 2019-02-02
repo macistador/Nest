@@ -1,0 +1,27 @@
+#extend("base")
+
+#export("head") {
+}
+
+#export("body") {
+<div class="message">
+    <h1>Identification</h1>
+    
+    <form action="/list/">
+        <div class="row">
+            <div class="six columns">
+                <label for="emailInput">Email</label>
+                <input class="u-full-width" type="email" placeholder="" id="emailInput">
+            </div>
+        </div>
+        <div class="row">
+            <div class="six columns">
+                <label for="passwordInput">Mot de passe</label>
+                <input class="u-full-width" type="password" placeholder="" id="passwordInput">
+                    </div>
+        </div>
+        <input class="button-primary" type="submit" value="Se connecter">
+    </form>
+    
+</div>
+}

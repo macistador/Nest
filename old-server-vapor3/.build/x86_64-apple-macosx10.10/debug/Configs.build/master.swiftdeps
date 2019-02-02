@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "b0372ad6eba4a04132b3c2f0a88c78f8"
+build_time: [1514292643, 385574000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Arguments.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Directory.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigError.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigInitializable.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Env.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Node+Env.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/String+Env.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Environment.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible+Merge.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Node+Merge.swift": [1514292262, 0]
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Source.swift": [1514292262, 0]

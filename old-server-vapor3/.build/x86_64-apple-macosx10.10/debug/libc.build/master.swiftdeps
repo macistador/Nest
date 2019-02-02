@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "4b824953493bb28022359f8a5f379161"
+build_time: [1514292608, 557743000]
+inputs:
+  "/Users/mac/Documents/Apps/Nest Backend/app-vapor3/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": [1514292263, 0]
